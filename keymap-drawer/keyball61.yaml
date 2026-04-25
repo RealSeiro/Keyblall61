@@ -43,7 +43,7 @@ layers:
   - C
   - V
   - B
-  - {t: LGUI, h: SYM}
+  - {t: LGUI, h: NUM}
   - $$mdi:apple-keyboard-option$$
   - N
   - M
@@ -105,7 +105,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - F13
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - '&letter1'
   - '&letter2'
   - '&letter3'
@@ -175,7 +175,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held alternate}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -229,7 +229,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
