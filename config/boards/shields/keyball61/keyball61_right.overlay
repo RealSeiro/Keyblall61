@@ -116,7 +116,7 @@
     device = <&trackball>;
     scroll_when_scroll_layer {
         layers = <3>;
-        input-processors = <&zip_scroll_transform>;
+        input-processors = <&zip_scroll_transform 0>;
     };
   };
 };
